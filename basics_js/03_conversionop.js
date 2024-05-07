@@ -1,4 +1,4 @@
-let score="33"
+/*let score="33"
 console.log(typeof score);
 let valueInNumber = Number(score)
 console.log(typeof  valueInNumber );
@@ -18,3 +18,11 @@ console.log(booleanIsLoggedIn);
 let sm = 33
 let stringNumber = String(sm)
 console.log(typeof stringNumber)
+*/
+let str1 = "Pooja"
+let str2 = " Mangal"
+let str3 = str1+str2
+console.log(str3)
+//if string is first then all will be consider as string if string is last then before string all will be consider as number
+//console.log("1"+2+3)
+//console.log(1+2+"3")
